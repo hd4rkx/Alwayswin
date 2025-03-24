@@ -2821,7 +2821,7 @@ if free_access == true then
             end
             
             -- // Da Hood Shits...
-            if table.find(dahood_ids, game.PlaceId) then
+            if table.find(9825515356, game.PlaceId) then
                 local KillAura = false
                 local RapidFire = false
                 local HyperFire = false
